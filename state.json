@@ -1,0 +1,32 @@
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4a9"},"name":"Aguascalientes"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4aa"},"name":"Baja California"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4ab"},"name":"Baja California Sur"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4ac"},"name":"Campeche"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4ad"},"name":"Coahuila de Zaragoza"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4ae"},"name":"Colima"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4af"},"name":"Chiapas"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4b0"},"name":"Chihuahua"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4b1"},"name":"Ciudad de México"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4b2"},"name":"Durango"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4b3"},"name":"Guanajuato"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4b4"},"name":"Guerrero"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4b5"},"name":"Hidalgo"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4b6"},"name":"Jalisco"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4b7"},"name":"México"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4b8"},"name":"Michoacán de Ocampo"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4b9"},"name":"Morelos"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4ba"},"name":"Nayarit"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4bb"},"name":"Nuevo León"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4bc"},"name":"Oaxaca"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4bd"},"name":"Puebla"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4be"},"name":"Querétaro"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4bf"},"name":"Quintana Roo"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4c0"},"name":"San Luis Potosí"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4c1"},"name":"Sinaloa"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4c2"},"name":"Sonora"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4c3"},"name":"Tabasco"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4c4"},"name":"Tamaulipas"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4c5"},"name":"Tlaxcala"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4c6"},"name":"Veracruz de Ignacio de la Llave"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4c7"},"name":"Yucatán"}
+{"_id":{"$oid":"5a5f8c9bcda546763adbb4c8"},"name":"Zacatecas"}
