@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mongo --host $DB_HOST --eval 'rs.initiate()'
+
 cd /home
 
 curl https://raw.githubusercontent.com/donluigimx-wiggot/mongo-seed/master/state.json > state.json
